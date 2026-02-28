@@ -21,6 +21,7 @@ public class Main {
         int result = binarySearch(nums, target);
         System.out.println(result);
         System.out.println("start binary search...");
+        System.out.println("feature/binary-debug change for rebase");
         System.out.println("main change for try rebase");
     }
 
