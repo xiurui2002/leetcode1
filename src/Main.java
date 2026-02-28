@@ -20,6 +20,7 @@ public class Main {
         // 二分查找
         int result = binarySearch(nums, target);
         System.out.println(result);
+        System.out.println("start binary search...");
     }
 
     private static int binarySearch(int[] nums, int target) {
